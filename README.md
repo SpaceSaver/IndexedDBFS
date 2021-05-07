@@ -1,0 +1,2 @@
+# IndexedDB FS
+IndexedDB FS is a personal project to make a frontend for [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) that makes it act more like a filesystem than a database.  The idea came while making storage for [quicktimelapse.gq](https://quicktimelapse.gq).  Using IndexedDB directly is just overly complex and I just needed a JavaScript script that could make it a heck of a lot easier.  Commence IndexedDB FS.  It's currently a work in progress, but it will no doubt be great once it's done.
